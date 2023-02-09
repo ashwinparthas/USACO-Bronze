@@ -1,2 +1,2 @@
 # uscao_bronze
-Code written to achieve a perfect score on the USACO 2021 January Contest for the Bronze Division
+Received a perfect score on the USACO 2021 January Contest in the Bronze Division.
